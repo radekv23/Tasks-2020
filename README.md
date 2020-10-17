@@ -9,7 +9,7 @@ should have output {'A': 3, 'B': 1, 'C': 1} . Your code should not depend
 on any module from the standard library or otherwise. You should research the task
 first and include a description with references of your algorithm in the notebook.
 
-**References:**
+**References:**<br/>
 https://stackoverflow.com/questions/55897076/creating-a-plot-of-frequency-of-items-in-a-list-in-python
 
 https://www.geeksforgeeks.org/python-split-string-into-list-of-characters/
