@@ -37,3 +37,16 @@ simulates flipping a coin 100 times. Then run this code 1,000 times, keeping tra
 of the number of heads in each of the 1,000 simulations. Select an appropriate
 plot to depict the resulting list of 1,000 numbers, showing that it roughly follows
 a bell-shaped curve. You should explain your work in a Markdown cell above the code.
+
+
+### Task 3
+
+**Task explanation:** 
+>Simpson’s paradox is a well-known statistical paradox
+where a trend evident in a number of groups reverses when the groups are combined
+into one big data set. Use numpy to create four data sets, each with an x array
+and a corresponding y array, to demonstrate Simpson’s paradox. You might
+create your x arrays using numpy.linspace and create the y array for each
+x using notation like y = a * x + b where you choose the a and b for each
+x , y pair to demonstrate the paradox. You might see the Wikipedia page for
+Simpson’s paradox for inspiration.
