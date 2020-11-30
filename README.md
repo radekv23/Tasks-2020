@@ -39,7 +39,7 @@ plot to depict the resulting list of 1,000 numbers, showing that it roughly foll
 a bell-shaped curve. You should explain your work in a Markdown cell above the code.
 
 
-### Task 3
+### Task 4
 
 **Task explanation:** 
 >Simpson’s paradox is a well-known statistical paradox
